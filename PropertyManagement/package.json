@@ -1,0 +1,7 @@
+{
+  "name": "PropertyManagement",
+  "version": "1.0.0",
+  "dependencies": {
+    "@element-plus/icons": "0.0.11"
+  }
+}
